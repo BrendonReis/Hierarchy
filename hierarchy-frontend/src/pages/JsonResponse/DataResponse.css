@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+
+.json-response-container {
+  background-color: white;
+  width: 100%;
+  padding: 20px;
+  color: black;
+}
+
+.poppins-font {
+  font-family: "Poppins", sans-serif;
+}
+
+.json-response-filter {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.date-filter {
+  display: flex;
+  align-items: center;
+}
+
+#startDate,
+#endDate {
+  padding: 5px;
+  margin-right: 10px;
+}
+
+button {
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 15px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkblue;
+}

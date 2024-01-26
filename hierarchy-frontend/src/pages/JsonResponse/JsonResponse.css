@@ -1,0 +1,15 @@
+body,
+html {
+  margin: 0;
+}
+
+.json-response-container {
+  background-color: rgb(41, 41, 41);
+  color: white;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 20px;
+  margin-top: 50px;
+  font-family: "Poppins", sans-serif;
+}
+
